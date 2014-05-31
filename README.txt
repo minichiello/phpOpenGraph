@@ -1,3 +1,5 @@
+** ATTENTION: This repository is not maintained anymore. **
+
 phpOpenGraph is a class written in PHP for parsing Open Graph protocol information from web sites.
 
 Learn more about the protocol at:
